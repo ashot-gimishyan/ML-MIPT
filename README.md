@@ -1,1 +1,1 @@
-# machine-learning-basics
+# Open Machine Learning course at MIPT
